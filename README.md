@@ -114,7 +114,7 @@ The ESP32 firmware performs continuous acquisition of temperature and humidity d
 ## Overall Block Diagram
 
 <p align="center">
-  <img width="480" height="353" alt="image" src="https://github.com/user-attachments/assets/c83ffc46-fb3d-44ba-9c79-8b10910e385e" />
+  <img width="1127" height="861" alt="image" src="https://github.com/user-attachments/assets/154ebbc3-1e79-4aad-94cf-37f5b0393d27" />
 </p>
 
 *Figure 1. Overall Block Diagram*
@@ -137,11 +137,12 @@ The TinkerCAD simulation was used during the initial prototyping stage to verify
 
 ## CAD Model
 
-<p align="center">
-  <img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/8c01902f-b160-4ac4-8fa0-93b219be5eb7" />
 
-  <img width="516" height="800" alt="image" src="https://github.com/user-attachments/assets/f5f2b7b1-4f0b-41e4-9d12-3216446f451e" />
-</p>
+<img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/8c01902f-b160-4ac4-8fa0-93b219be5eb7" />
+
+
+<img width="516" height="800" alt="image" src="https://github.com/user-attachments/assets/f5f2b7b1-4f0b-41e4-9d12-3216446f451e" />
+
 
 *Figure 3. CAD Enclosure Model and Heat-flow results*
 
@@ -152,7 +153,7 @@ The enclosure was designed in SolidWorks to provide a compact and protective hou
 ## PCB Schematic
 
 <p align="center">
-  <img width="480" height="310" alt="image" src="https://github.com/user-attachments/assets/dcee7d77-6764-44e7-9f62-dde6b9bc34a2" />
+  <img width="975" height="631" alt="image" src="https://github.com/user-attachments/assets/f3c7a6d7-cb30-49b6-9112-d15c05f86420" />
 </p>
 
 *Figure 4. PCB Schematic*
