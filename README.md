@@ -138,7 +138,7 @@ The TinkerCAD simulation was used during the initial prototyping stage to verify
 ## CAD Model
 
 
-<img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/8c01902f-b160-4ac4-8fa0-93b219be5eb7" />
+<img width="696" height="501" alt="image" src="https://github.com/user-attachments/assets/b38c4ab8-3e7f-4b1e-b89f-ce59d6d101e2" />
 
 
 <img width="516" height="800" alt="image" src="https://github.com/user-attachments/assets/f5f2b7b1-4f0b-41e4-9d12-3216446f451e" />
