@@ -114,7 +114,7 @@ The ESP32 firmware performs continuous acquisition of temperature and humidity d
 ## Overall Block Diagram
 
 <p align="center">
-  <img src="block_diagram.png" width="900">
+  <img width="480" height="353" alt="image" src="https://github.com/user-attachments/assets/c83ffc46-fb3d-44ba-9c79-8b10910e385e" />
 </p>
 
 *Figure 1. Overall Block Diagram*
@@ -126,10 +126,10 @@ The block diagram illustrates the interaction between the ESP32 controller, sens
 ## TinkerCAD Simulation
 
 <p align="center">
-  <img src="tinkercad_simulation.png" width="900">
+  <img width="480" height="275" alt="image" src="https://github.com/user-attachments/assets/6980d300-9b36-43f0-8340-1a068df336d1" />
 </p>
 
-*Figure 2. TinkerCAD Simulation Setup*
+*Figure 2. This shows the partial circuit connections, barring the GSM and GPS module connections*
 
 The TinkerCAD simulation was used during the initial prototyping stage to verify sensor interfacing, display functionality, threshold detection logic, and alert generation before implementing the complete ESP32-based hardware prototype.
 
@@ -138,10 +138,12 @@ The TinkerCAD simulation was used during the initial prototyping stage to verify
 ## CAD Model
 
 <p align="center">
-  <img src="cad_model.png" width="850">
+  <img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/8c01902f-b160-4ac4-8fa0-93b219be5eb7" />
+
+  <img width="516" height="800" alt="image" src="https://github.com/user-attachments/assets/f5f2b7b1-4f0b-41e4-9d12-3216446f451e" />
 </p>
 
-*Figure 3. CAD Enclosure Model*
+*Figure 3. CAD Enclosure Model and Heat-flow results*
 
 The enclosure was designed in SolidWorks to provide a compact and protective housing for the electronic components while allowing convenient access to sensors, communication modules, and the power supply.
 
@@ -150,7 +152,7 @@ The enclosure was designed in SolidWorks to provide a compact and protective hou
 ## PCB Schematic
 
 <p align="center">
-  <img src="pcb_schematic.png" width="900">
+  <img width="480" height="310" alt="image" src="https://github.com/user-attachments/assets/dcee7d77-6764-44e7-9f62-dde6b9bc34a2" />
 </p>
 
 *Figure 4. PCB Schematic*
@@ -164,7 +166,7 @@ The PCB schematic presents the complete electrical connectivity between the ESP3
 ### Prototype Setup
 
 <p align="center">
-  <img src="hardware_1.jpg" width="700">
+  <img width="480" height="267" alt="image" src="https://github.com/user-attachments/assets/97d0ff5f-4af9-4e09-a969-caf6e651280d" />
 </p>
 
 *Figure 5. Hardware Prototype – Setup*
@@ -174,10 +176,12 @@ The first hardware prototype demonstrates the practical integration of all elect
 ### Prototype Demonstration
 
 <p align="center">
-  <img src="hardware_2.jpg" width="700">
+  <img width="480" height="264" alt="image" src="https://github.com/user-attachments/assets/6897a650-43fd-4a20-ab2a-58391ff031a0" />
+
+  <img width="480" height="268" alt="image" src="https://github.com/user-attachments/assets/51d42889-9633-4881-aa6e-ad517631e8d5" />
 </p>
 
-*Figure 6. Hardware Prototype – Working Demonstration*
+*Figure 6. Hardware Prototype – Working Demonstration: Shows the System's operation outside the specified temperature range, i.e., in alert mode and inside the specified temperature range, i.e., in normal mode*
 
 The completed prototype demonstrates real-time environmental monitoring together with alert generation, OLED visualization, and wireless communication under different operating conditions.
 
@@ -197,9 +201,3 @@ The developed prototype successfully monitored temperature and humidity in real 
 - Food cold storage and distribution
 - Medical laboratories
 - Temperature-sensitive warehouse monitoring
-
----
-
-## Future Scope
-
-Future enhancements include cloud-based IoT dashboards, RFID-enabled inventory tracking, mobile application integration, AI-based predictive analytics, multi-container monitoring, LoRaWAN communication, and enhanced battery management for long-duration deployments.
