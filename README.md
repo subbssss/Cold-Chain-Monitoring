@@ -1,6 +1,8 @@
 # Smart IoT-Enabled Cold Chain Monitoring System with Automated Temperature Control and GPS/GSM Tracking
 
-> An ESP32-based IoT solution for real-time monitoring of temperature-sensitive products including vaccines, pharmaceuticals, blood products, and food items during transportation and storage.
+## Abstract
+
+The project presents a low-cost IoT-enabled cold chain monitoring system designed to ensure the safe transportation and storage of temperature-sensitive products such as vaccines, pharmaceuticals, blood products, and food items. Built around the ESP32 microcontroller, the system continuously monitors temperature and humidity, displays live readings on an OLED display, generates local alerts through LEDs and a buzzer, and provides GSM-based notifications together with GPS tracking whenever temperature excursions occur. The solution offers a portable, scalable, and cost-effective approach for improving cold chain visibility, minimizing product spoilage, and enhancing supply chain reliability.
 
 ---
 
@@ -22,12 +24,6 @@
 - [Results](#results)
 - [Applications](#applications)
 - [Future Scope](#future-scope)
-
----
-
-## Abstract
-
-The project presents a low-cost IoT-enabled cold chain monitoring system designed to ensure the safe transportation and storage of temperature-sensitive products such as vaccines, pharmaceuticals, blood products, and food items. Built around the ESP32 microcontroller, the system continuously monitors temperature and humidity, displays live readings on an OLED display, generates local alerts through LEDs and a buzzer, and provides GSM-based notifications together with GPS tracking whenever temperature excursions occur. The solution offers a portable, scalable, and cost-effective approach for improving cold chain visibility, minimizing product spoilage, and enhancing supply chain reliability.
 
 ---
 
